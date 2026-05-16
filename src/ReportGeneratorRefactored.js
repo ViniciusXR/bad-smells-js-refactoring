@@ -1,4 +1,4 @@
-export class ReportGenerator {
+export class ReportGeneratorRefactored {
   constructor(database) {
     this.db = database;
   }
